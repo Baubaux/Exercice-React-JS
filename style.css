@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 80rem;
+}
